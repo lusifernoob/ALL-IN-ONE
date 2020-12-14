@@ -5,7 +5,7 @@ Multifunctional Telegram Bot RadRetroRobot.
 Running publicly as [@RadRetroRobot](http://telegram.me/radretrorobot).
 
 licensed under the GNU General Public License. 
- 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lusifernoob/ALL-IN-ONE
 ## How to setup
 Clone this repository.
 
